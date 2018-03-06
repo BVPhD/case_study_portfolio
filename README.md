@@ -6,4 +6,5 @@ A repo to hold some case studies from various books, institutions, and tutorials
 * NLP Task
 * CNN Task
 * LSTM Task
+* Reinforcement Task
 * Theortical Task
