@@ -3,8 +3,8 @@ A repo to hold some case studies from various books, institutions, and tutorials
 
 * Regression Task
 * Classification Task (In progress)
-* NLP Task
+* NLP Task (To be uploaded)
 * CNN Task (In progress)
 * LSTM Task (In progress)
-* Reinforcement Task
-* Theortical Task
+* Reinforcement Task (to be uploaded)
+* Theortical Task - mathematical methods derivation
