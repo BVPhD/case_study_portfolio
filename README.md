@@ -4,3 +4,4 @@ Initially this was going to be a portfolio of works that demonstrate skills in p
 * Another Housing Regression Task: End to end task- getting, cleaning, preping, feat engineering, modeling, tunning & testing 
 * Reinforcement Learning: Value functions, Action-State functions, DQN and all that  
 * Markov Chain Monte Carlo: How does it work?
+* Linear Models and the Gory Details
