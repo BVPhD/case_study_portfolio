@@ -5,3 +5,4 @@ Initially this was going to be a portfolio of works that demonstrate skills in p
 * Reinforcement Learning: Value functions, Action-State functions, DQN and All That  
 * Markov Chain Monte Carlo: How does it work?
 * Linear Models and the Gory Details
+* Recreating Dropout as a Bayesian Approximation in Nueral Networks with Tensorflow
