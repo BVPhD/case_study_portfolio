@@ -8,3 +8,5 @@ Note: the notebooks render best when viewed in a Jupyter notebook session [(jupy
 * [Markov Chain Monte Carlo: How does it work?](https://github.com/BVPhD/case_study_portfolio/blob/master/pymc_Markov_Chain_Monte_Carlo_walkthrough.ipynb)
 * [Linear Models and the Gory Details](https://github.com/BVPhD/case_study_portfolio/blob/master/Linear_models_and_the_gory_details.pdf)
 * [Dropout as a Bayesian Approximation in Neural Networks with Tensorflow](https://github.com/BVPhD/case_study_portfolio/blob/master/Neural_Networks_and_GP_Approximate_Bayes.ipynb)
+
+Projects associated with the Udacity Self-Driving car Nano-degree can be found [here](https://github.com/BVPhD/Udacity_SDC)
